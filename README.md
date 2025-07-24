@@ -29,7 +29,7 @@ A React-based web application that lets you draw polygons on a map, import/expor
 
 Base map using OpenStreetMap tiles
 
-Rendered with deck.gl and MapLibre or Mapbox
+Rendered with deck.gl
 
 ## ✏️ 2. Polygon Drawing
 
@@ -53,11 +53,11 @@ Features from the external source are displayed on the map and in the data table
 
 ## 🔍 5. Location Search
 
-Search bar accepts:
+Search modal accepts:
 
 Place name (e.g. New York)
 
-Coordinates (e.g. 40.7128 -74.0060)
+Coordinates (e.g. 40.7128 74.0060)
 
 Automatically pans and zooms the map to the selected location
 
